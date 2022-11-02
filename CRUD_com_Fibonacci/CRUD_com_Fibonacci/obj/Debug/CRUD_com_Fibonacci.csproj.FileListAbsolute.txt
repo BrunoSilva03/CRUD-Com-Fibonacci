@@ -1,0 +1,7 @@
+C:\Users\Bruno\Desktop\CRUD_com_Fibonacci\CRUD_com_Fibonacci\obj\Debug\CRUD_com_Fibonacci.csprojAssemblyReference.cache
+C:\Users\Bruno\Desktop\CRUD_com_Fibonacci\CRUD_com_Fibonacci\obj\Debug\CRUD_com_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\CRUD_com_Fibonacci\CRUD_com_Fibonacci\bin\Debug\CRUD_com_Fibonacci.exe.config
+C:\Users\Bruno\Desktop\CRUD_com_Fibonacci\CRUD_com_Fibonacci\bin\Debug\CRUD_com_Fibonacci.exe
+C:\Users\Bruno\Desktop\CRUD_com_Fibonacci\CRUD_com_Fibonacci\bin\Debug\CRUD_com_Fibonacci.pdb
+C:\Users\Bruno\Desktop\CRUD_com_Fibonacci\CRUD_com_Fibonacci\obj\Debug\CRUD_com_Fibonacci.exe
+C:\Users\Bruno\Desktop\CRUD_com_Fibonacci\CRUD_com_Fibonacci\obj\Debug\CRUD_com_Fibonacci.pdb
